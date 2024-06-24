@@ -1,5 +1,5 @@
 # Raccoon-s-Datainterchange-Object
-My own data interchange format created to fit the design of my projects.
+My own data interchange format created to fit the design of my Unity projects.
 # RDO's grammar:
 **`Symbols written in bold text are terminals.`**\
 Object List &#8594; Object+\
